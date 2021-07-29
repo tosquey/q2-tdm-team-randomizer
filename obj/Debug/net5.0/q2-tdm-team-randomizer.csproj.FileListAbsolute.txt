@@ -1,0 +1,16 @@
+C:\Users\luizm\src\q2-tdm-team-randomizer\bin\Debug\net5.0\q2-tdm-team-randomizer.exe
+C:\Users\luizm\src\q2-tdm-team-randomizer\bin\Debug\net5.0\q2-tdm-team-randomizer.deps.json
+C:\Users\luizm\src\q2-tdm-team-randomizer\bin\Debug\net5.0\q2-tdm-team-randomizer.runtimeconfig.json
+C:\Users\luizm\src\q2-tdm-team-randomizer\bin\Debug\net5.0\q2-tdm-team-randomizer.runtimeconfig.dev.json
+C:\Users\luizm\src\q2-tdm-team-randomizer\bin\Debug\net5.0\q2-tdm-team-randomizer.dll
+C:\Users\luizm\src\q2-tdm-team-randomizer\bin\Debug\net5.0\ref\q2-tdm-team-randomizer.dll
+C:\Users\luizm\src\q2-tdm-team-randomizer\bin\Debug\net5.0\q2-tdm-team-randomizer.pdb
+C:\Users\luizm\src\q2-tdm-team-randomizer\obj\Debug\net5.0\q2-tdm-team-randomizer.csproj.AssemblyReference.cache
+C:\Users\luizm\src\q2-tdm-team-randomizer\obj\Debug\net5.0\q2-tdm-team-randomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\src\q2-tdm-team-randomizer\obj\Debug\net5.0\q2-tdm-team-randomizer.AssemblyInfoInputs.cache
+C:\Users\luizm\src\q2-tdm-team-randomizer\obj\Debug\net5.0\q2-tdm-team-randomizer.AssemblyInfo.cs
+C:\Users\luizm\src\q2-tdm-team-randomizer\obj\Debug\net5.0\q2-tdm-team-randomizer.csproj.CoreCompileInputs.cache
+C:\Users\luizm\src\q2-tdm-team-randomizer\obj\Debug\net5.0\q2-tdm-team-randomizer.dll
+C:\Users\luizm\src\q2-tdm-team-randomizer\obj\Debug\net5.0\ref\q2-tdm-team-randomizer.dll
+C:\Users\luizm\src\q2-tdm-team-randomizer\obj\Debug\net5.0\q2-tdm-team-randomizer.pdb
+C:\Users\luizm\src\q2-tdm-team-randomizer\obj\Debug\net5.0\q2-tdm-team-randomizer.genruntimeconfig.cache
